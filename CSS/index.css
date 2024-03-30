@@ -1,0 +1,13 @@
+*{
+    background-color: gray;
+}
+
+#campoTexto{
+  width: 170px;
+  background-color: white;
+  /* color: bacl; */
+}
+
+#meuBotao{
+    background-color: white ;
+}
